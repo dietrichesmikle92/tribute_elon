@@ -1,0 +1,39 @@
+.title {
+  font-size: 60px;
+  background-color: #0acff0;
+  color: white;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-container {
+  max-width: 750px;
+}
+
+#img-caption {
+  margin-top: 1rem;
+  background-color: #0acff0;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.image {
+  width: 100%;
+}
+
+#tribute-link {
+  color: #0acff0;
+  background-color: #000;
+}
+.more-info {
+  background-color: #000;
+  color: white;
+}
+#paypal-link {
+  color: #0acff0;
+}
